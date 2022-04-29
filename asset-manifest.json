@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.b85c87a3.js",
-    "static/js/787.e01666d6.chunk.js": "/static/js/787.e01666d6.chunk.js",
-    "index.html": "/index.html",
-    "main.b85c87a3.js.map": "/static/js/main.b85c87a3.js.map",
-    "787.e01666d6.chunk.js.map": "/static/js/787.e01666d6.chunk.js.map"
+    "main.js": "/wordle-code/static/js/main.ffd7d758.js",
+    "static/js/787.e01666d6.chunk.js": "/wordle-code/static/js/787.e01666d6.chunk.js",
+    "index.html": "/wordle-code/index.html",
+    "main.ffd7d758.js.map": "/wordle-code/static/js/main.ffd7d758.js.map",
+    "787.e01666d6.chunk.js.map": "/wordle-code/static/js/787.e01666d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b85c87a3.js"
+    "static/js/main.ffd7d758.js"
   ]
 }
